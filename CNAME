@@ -63,6 +63,7 @@
     <a href="#features" onclick="showSection('features')">Features</a>
     <a href="#formulas" onclick="showSection('formulas')">Formulas</a>
     <a href="#contact" onclick="showSection('contact')">Contact</a>
+    <a href="#video" onclick="showSection('contact')">Contact</a>
 </nav>
 
 <div class="container">
@@ -117,7 +118,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 My Simple Software. All rights reserved.</p>
+    <p>&copy; 2024 CalcAhead. All rights reserved.</p>
 </footer>
 
 <script>
